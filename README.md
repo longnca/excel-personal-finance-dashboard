@@ -1,4 +1,4 @@
-# personal-finance-dashboard
+# Personal Finance Dashboard in MS Excel 
 
 ## Project Summary
 The dashboard provides a brief summary of my income and expenses during the first four months of 2023 using MS Excel 365.
