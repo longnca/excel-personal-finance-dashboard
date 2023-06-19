@@ -25,7 +25,7 @@ The skills and techniques I utilized in this project include:
 ## How to view the project 
 - Download two Excel files (`.xlsx` and `.xlsm`) directly from this GitHub repository. Open them on your computer with MS Excel installed.
 - For more information and a video demonstration of navigating the Excel dashboard, visit my [portfolio website](https://www.longnguyendata.com/project/personal-finance-dashboard/).
-- Please note that some charts may not appear in Excel 2016 or older versions. I built this dashboard using the latest updated version of MS Excel 365 (April 2023).
+- Please note that some charts may not appear in Excel 2016 or older versions. I built this dashboard using MS Excel 365 (version updated in April 2023).
 - Enabling macros is necessary to utilize the functionality of resetting the slicer (the red garbage bin icon on the top right). Don't worry, as a data analyst, I prioritize data security, and I won't cause any harm to your computer. To enable the macros, please follow the instructions [here](https://tinyurl.com/enabling-macros).
 - However, if you’re not comfortable enabling macros, then you can use the version without macros, which is the `.xlsx` file.
 - If you have any questions regarding the project, please feel free to contact me.
