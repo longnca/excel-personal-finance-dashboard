@@ -7,6 +7,10 @@
 
 Please visit my [portfolio website](https://www.longnguyendata.com/project/personal-finance-dashboard/) for more details.
 
+## Dataset
+- The dataset used for this project is the bank statement downloaded from my RBC Royal Bank account in CSV format.
+- For privacy reasons, I made some changes to the data, such as altering my salary/mortgage numbers and some texts.
+
 ## Tools Used:
 The skills and techniques I utilized in this project include:
 - Data Wrangling in Excel (date/time, IF functions…)
@@ -18,7 +22,10 @@ The skills and techniques I utilized in this project include:
 - Form Controls
 - Macros and VBA
 
-## Note
-- Certain charts may not appear if the MS Excel version being used is Excel 2016 or an older version.
+## How to view the project 
+- Download two Excel files (`.xlsx` and `.xlsm`) directly from this GitHub repository. Open them on your computer with MS Excel installed.
+- For more information and a video demonstration of navigating the Excel dashboard, visit my [portfolio website](https://www.longnguyendata.com/project/personal-finance-dashboard/).
+- Please note that some charts may not appear in Excel 2016 or older versions. I built this dashboard using the latest updated version of MS Excel 365 (April 2023).
 - Enabling macros is necessary to utilize the functionality of resetting the slicer (the red garbage bin icon on the top right). Don't worry, as a data analyst, I prioritize data security, and I won't cause any harm to your computer. To enable the macros, please follow the instructions [here](https://tinyurl.com/enabling-macros).
-- However, if you’re not comfortable enabling macros, then you can use the version without macros.
+- However, if you’re not comfortable enabling macros, then you can use the version without macros, which is the `.xlsx` file.
+- If you have any questions regarding the notebook and the analysis, please feel free to contact me.
